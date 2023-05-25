@@ -6,4 +6,4 @@ repeat() {
     done
 }
 
-repeat $1 $2dckr_pat_BaRae57m-zzT2Z1padmvAtOFrZA
+repeat $1 $2
